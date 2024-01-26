@@ -1,0 +1,18 @@
+the first line
+20.50
+10
+the second line
+the third line
+123
+4.56
+Another line with numbers: 789
+8.5
+8
+@#$&*^%
+9
+13
+leena
+lmlrgldf
+#$%%^
+
+The end
